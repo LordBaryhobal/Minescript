@@ -103,3 +103,8 @@
 ## Delete:
     1: stained glass
     2: magma block
+
+
+# Pause:
+    1: target
+    2: condition (see #Values)

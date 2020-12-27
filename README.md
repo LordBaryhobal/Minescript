@@ -2,6 +2,7 @@
 * numbers (1, 2, 3...) -> indicate the layer of the block i.e 1 is the ground layer, 2 is the second block under, 3 the third etc.
 * letters (a, b, c...) -> indicate multiple possibilities for the same layer.
 * *TODO* -> to do
+* *WIP* -> work in progress
 
 # End of program:
     1: obsidian

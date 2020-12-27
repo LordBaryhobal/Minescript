@@ -8,7 +8,7 @@
 
 # Values:
     2a: barrel with certain number of item (in 1st slot) -> direct assignation
-    2b: coloured wool -> value from other variable
+    2b: coloured wool/concrete -> value from other variable
     2c: air -> internal value
     2d: chiseled stone bricks -> value from internal accumulator
 

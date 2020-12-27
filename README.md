@@ -1,7 +1,7 @@
 # How to read this file:
-numbers (1, 2, 3...) -> indicate the layer of the block i.e 1 is the ground layer, 2 is the second block under, 3 the third etc.
-letters (a, b, c...) -> indicate multiple possibilities for the same layer.
-*TODO* -> to do
+* numbers (1, 2, 3...) -> indicate the layer of the block i.e 1 is the ground layer, 2 is the second block under, 3 the third etc.
+* letters (a, b, c...) -> indicate multiple possibilities for the same layer.
+* *TODO* -> to do
 
 # End of program:
     1: obsidian

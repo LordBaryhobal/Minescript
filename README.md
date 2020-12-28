@@ -6,7 +6,7 @@
 * letters (a, b, c...) -> indicate multiple possibilities for the same layer.
 * *TODO* -> to do
 * *WIP* -> work in progress
-* *internal variable* -> armor stand's score in scoreboard <ins>MSgvars</ins>
+* *internal variable* -> interpreter's score in scoreboard <ins>MSgvars</ins>
 
 # Boolean values
 
@@ -48,7 +48,11 @@ Assigns the value to the given variable
 Prints the value in the chat
 
     1: redstone lamp
-    2: value (see #Values)
+    a:
+        2: value (see #Values)
+    b:
+        2: hay block
+        renamed chicken on top -> prints the name of the chicken
 
 
 # Arithmetic Operators

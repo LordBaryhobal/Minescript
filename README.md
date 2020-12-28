@@ -169,3 +169,16 @@ Holds the interpreter on the block as long as condition is true
 
     1: target
     2: condition (see #Values)
+
+---
+# Modules
+***TODO***
+
+---
+# Scoreboards
+* **MSgconst**: used for constants
+* **MSgvars**: holds global vars and internal variables for each interpreter
+* **MSvar_<i>color</i>**: holds local variables of every interpreter
+* **MSacc**: accumulator scoreboard
+* **MSrot**: holds the rotation of each interpreter
+* **MSopcount**: holds the opcount of each interpreter (number of operations executed since last null operation)

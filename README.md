@@ -77,7 +77,7 @@ Multiplies value B with value A, stores result in internal variable
     1: slime block
     2: Value A (see #Values)
     3: Value B (see #Values)
-    *TODO*
+    *WIP*
 
 ## Division:
 Divides value A by value B, stores result in internal variable
@@ -85,7 +85,7 @@ Divides value A by value B, stores result in internal variable
     1: honey block
     2: Value A (see #Values)
     3: Value B (see #Values)
-    *TODO*
+    *WIP*
 
 ## Modulo:
 Computes the modulo of value A by value B, stores result in internal variable

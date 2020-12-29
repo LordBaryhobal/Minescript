@@ -221,3 +221,13 @@ This command checks if the ninth slot of the barrel (first of the second line) c
 * **MSacc**: accumulator scoreboard
 * **MSrot**: holds the rotation of each interpreter
 * **MSopcount**: holds the opcount of each interpreter (number of operations executed since last null operation)
+
+---
+# Examples
+
+## Fibonacci
+![Fibonacci](examples/fibonacci1.png)
+![Fibonacci](examples/fibonacci2.png)
+![Fibonacci](examples/fibonacci3.png)
+![Fibonacci](examples/fibonacci4.png)
+![Fibonacci](examples/fibonacci5.png)

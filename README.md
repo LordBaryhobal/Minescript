@@ -225,7 +225,7 @@ This command checks if the ninth slot of the barrel (first of the second line) c
 ---
 # Examples
 
-## Fibonacci
+## Fibonacci sequence
 ![Fibonacci](examples/fibonacci1.png)
 ![Fibonacci](examples/fibonacci2.png)
 ![Fibonacci](examples/fibonacci3.png)
